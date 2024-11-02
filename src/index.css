@@ -9,7 +9,7 @@ html {
 }
 
 header {
-  background-image: url("src/assets/img/Header.jpg");
+  background-image: url("./assets/img/Header.jpg");
   background-size: cover;
   display: flex;
   flex-direction: column;
