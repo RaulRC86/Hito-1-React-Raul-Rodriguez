@@ -1,3 +1,3 @@
-export const PizzaCards = () =>{
-
-}
+export const PizzaCards = () => {
+  return <>A</>;
+};
